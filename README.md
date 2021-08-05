@@ -21,8 +21,9 @@ mcu develop/diy utils code and interface
 MDU 实现了简单的算法实现，从而实现开箱即用，同时提供了部分算法的python封装。
 
 ##### 已实现算法：
-- 1d Kalman Filter
-- simple PID
+- 1d Kalman Filter（一维卡尔曼滤波）
+- simple PID（简单PID控制器）
+- fsm （有限状态机）
 
 #### version
 - 2021/8/5 ver.alpha 0.0.1
